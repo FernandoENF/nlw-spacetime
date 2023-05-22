@@ -6,4 +6,4 @@
 	url = https://github.com/FernandoENF/nlw-spacetime-server
 [submodule "mobile"]
 	path = mobile
-	url = ./mobile
+	url = https://github.com/FernandoENF/nlw-spacetime-mobile
